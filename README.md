@@ -92,7 +92,7 @@ Both parts: 6.979ms
 Day 04
 Time part 1: 1.671ms
 Time part 2: 1.753ms
-Both parts: 190.372ms
+Both parts: 3.424ms
 ```
 
 ```
